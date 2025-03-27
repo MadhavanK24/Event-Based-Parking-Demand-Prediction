@@ -1,2 +1,2 @@
 # Event-Based-Parking-Demand-Prediction
-Combine social media sentiment analysis + historical parking trends to predict surges before they happen. Also, offer dynamic pricing recommendations to parking lot owners.
+This project uses an ESP32 microcontroller to predict parking demand based on real-time event data from sources like Twitter API, Google Trends, and event listings. Unlike the 8051, the ESP32 has built-in Wi-Fi and higher processing power, allowing direct communication with APIs and handling basic machine learning tasks. The system controls parking availability displays, entry barriers, and alerts based on predicted demand.
